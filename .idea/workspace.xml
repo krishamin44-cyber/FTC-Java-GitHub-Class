@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ca7052a-7cea-4898-b4c5-9151d612db36" name="Changes" comment="" />
+    <list default="true" id="6ca7052a-7cea-4898-b4c5-9151d612db36" name="Changes" comment="changes">
+      <change afterPath="$PROJECT_DIR$/src/session02loopsmethods/AutonomousSequence2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +31,12 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "thehuggriesthippo-ops"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/radhikaj2ee7-lab/FTC-Java-GitHub-Class.git",
@@ -174,7 +183,6 @@
     </configuration>
     <configuration name="RobotCommands" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="session05polymorphism.RobotCommands" />
-      <module name="FTC-Java-GitHub-Class" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="session05polymorphism.*" />
@@ -213,9 +221,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RobotCommands" />
         <item itemvalue="Application.RobotMain" />
         <item itemvalue="Application.RobotFamily" />
-        <item itemvalue="Application.RobotCommands" />
         <item itemvalue="Application.LocalVariable" />
         <item itemvalue="Application.GlobalVariable" />
       </list>
@@ -241,6 +249,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
